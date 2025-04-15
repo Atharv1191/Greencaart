@@ -16,7 +16,7 @@ const app = express();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://greencart-tau.vercel.app'
+  'https://greencaart.vercel.app'
 ];
 
 app.use(cors({
